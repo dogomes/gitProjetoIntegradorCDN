@@ -7,7 +7,7 @@
 * Lucas Basso - lucas.rego01@fatec.sp.gov.br
 * Marcos Rodrigues - marcos.rodrigues55@fatec.sp.gov.br
 * Mariana Borges Curvelo da Silva - mariana.silva211@fatec.sp.gov.br
-* Paulo Cesar Pontes de Oliveira - paulo.oliveira218@fatec.sp.gov.br
+* Paulo Cesar Pontes de Oliveira - paulo-pontes@outlook.com
 * Pedro Valadares Junior - pedro.valadares@fatec.sp.gov.br
 
 Curso: 2ª Turma de Ciência de Dados para Negócios
