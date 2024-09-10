@@ -4,8 +4,8 @@
 
 ## Autores 🚀
 * Donizete Marcos Gomes - doni.gomes7@gmail.com
-* Larissa Costa de Almeira - larissa.almeida19@fatec.sp.gov.br
-* Leandra Beraldo Martins Pacheco - leandra.pacheco@fatec.sp.gov.br
+* Lucas Basso - lucas.rego01@fatec.sp.gov.br
+* Marcos Rodrigues - marcos.rodrigues55@fatec.sp.gov.br
 * Mariana Borges Curvelo da Silva - mariana.silva211@fatec.sp.gov.br
 * Paulo Cesar Pontes de Oliveira - paulo.oliveira218@fatec.sp.gov.br
 * Pedro Valadares Junior - pedro.valadares@fatec.sp.gov.br
