@@ -9,7 +9,7 @@ git init
 comando 03
 ssh-keygen -t ed25519 -C doni.gomes7@gmail.com
 
-comando 04
+comando 04git
 cat < ~/.ssh/id_ed25519.pub
 
 No GIT Hub
