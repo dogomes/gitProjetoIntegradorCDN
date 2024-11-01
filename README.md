@@ -4,9 +4,9 @@
 
 ## Autores 🚀
 * Donizete Marcos Gomes - doni.gomes7@gmail.com
-* Lucas Basso - lucas.rego01@fatec.sp.gov.br
 * Marcos Rodrigues - marcos.rodrigues55@fatec.sp.gov.br
 * Mariana Borges Curvelo da Silva - mariana.silva211@fatec.sp.gov.br
+* Natalia Silveira Toledo - natalia.toledo3@fatec.sp.gov.br
 * Paulo Cesar Pontes de Oliveira - paulo-pontes@outlook.com
 * Pedro Valadares Junior - pedro.valadares@fatec.sp.gov.br
 
